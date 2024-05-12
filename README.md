@@ -8,3 +8,6 @@
 <p> Furthermore, we utilized " Loob" functions to calculate the points for all rounds. We also incorporated mathematical functions such as "ceil(n)", "floor() ", "round()", addition (+), division (\) (%), and comparison operators (<, >, <=, >=). </p>
 
 <p> Finally, we utilized Matplotlib for visualization purposes or any relevant graphical representations. </p>
+<p>🚀 Let's connect to collaborate and shape a beautiful future together! </p>
+<p>🌐 My LinkedIn : www.linkedin.com/in/ey24 </p>
+<p>📩 My E-mail : kk2595025@gmail.com </p>
